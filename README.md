@@ -22,6 +22,5 @@ We have executed several exercises iteratively last week. Today we are going to 
 Implement the following exercises recursively:
 
 1. Factorial
-2. Palindrome
 3. 99 bottles
 4. Roman Numerals
